@@ -1,4 +1,4 @@
-# Event Registration System
+# Regestration Management system
 
 ## Overview
 
